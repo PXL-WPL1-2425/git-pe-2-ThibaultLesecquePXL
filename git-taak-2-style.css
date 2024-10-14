@@ -13,6 +13,12 @@
      width: 33%;
      text-align: center;
  }
+.links-section ul li {
+    display: inline;
+    font-size: 14pt;
+    color: white;
+    padding: 5px;
+}
 
 .button-section {
     width: 33%;
@@ -20,5 +26,5 @@
 }
 
 .logo-image {
-    width: 100px;
+    width: 150px;
 }
