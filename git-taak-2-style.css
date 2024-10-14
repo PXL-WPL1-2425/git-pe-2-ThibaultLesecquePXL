@@ -28,3 +28,23 @@
 .logo-image {
     width: 150px;
 }
+
+.sign_in-button {
+    width: 80px;
+    height: 25px;
+    border: none;
+    border-radius: 10px;
+    background-color: red;
+    transition: background-color 0.15s;
+    text-decoration: none;
+}
+
+.sign_in-button:hover {
+    cursor: pointer;
+    background-color: #dc0000;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
