@@ -4,17 +4,21 @@
     justify-content: center;
 }
 
-.links-section {
-    width: 33%;
-    text-align: center;
-}
-.button-section {
-    width: 33%;
-    text-align: center;
-
-}
 .logo-section {
     width: 33%;
     text-align: center;
+}
 
+.links-section {
+     width: 33%;
+     text-align: center;
+ }
+
+.button-section {
+    width: 33%;
+    text-align: center;
+}
+
+.logo-image {
+    width: 100px;
 }
